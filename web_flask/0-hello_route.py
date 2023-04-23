@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A flask script to display "Hello HBNB!" """
+"""A flask script to display "Hello HBNB!" when you execute it """
 from flask import Flask
 
 app = Flask(__name__)
